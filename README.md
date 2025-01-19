@@ -1,6 +1,6 @@
 # CRUD application using node node and mongoDB
 
-This is an **CRUD(Create-Read-Update-Delete)** app backend developed using **node.js** as backend and **MongoDB** as database.
+This is an **CRUD(Create-Read-Update-Delete)** app backend developed using **Node.js** as backend and **MongoDB** as database.
 
 The Routes are specified for different methods (GET, POST, PUT, DELETE) are developed using REST Api.
 
